@@ -8,7 +8,7 @@ Git work time log.
 
 ## upgrade
 
-upgrade debian's based distros (considering snap).
+upgrade debian's based distros (with apt and snap package managers).
 
 ## Licence
 
